@@ -8,10 +8,10 @@
   * file that was distributed with this source code.
   */
 
-namespace ConsoleTVs\Invoices\Classes;
+namespace MikailGazi\Invoices\Classes;
 
 use Carbon\Carbon;
-use ConsoleTVs\Invoices\Traits\Setters;
+use MikailGazi\Invoices\Traits\Setters;
 use Illuminate\Support\Collection;
 use Storage;
 

@@ -1,5 +1,5 @@
 {
-    "name": "consoletvs/invoices",
+    "name": "mikailgazi/invoices",
     "description": "Generate PDF invoices for your customers in laravel",
     "type": "library",
     "keywords": [
@@ -22,13 +22,13 @@
     ],
     "autoload": {
         "psr-4": {
-            "ConsoleTVs\\Invoices\\": "."
+            "MikailGazi\\Invoices\\": "."
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "ConsoleTVs\\Invoices\\InvoicesServiceProvider"
+                "MikailGazi\\Invoices\\InvoicesServiceProvider"
             ]
         }
     },
